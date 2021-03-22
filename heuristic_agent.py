@@ -1,5 +1,5 @@
 def rival(obs, config):
-    #imports
+    #llibreries que utilitzarem
     import numpy as np
     import random
     #deixa caure una peca
