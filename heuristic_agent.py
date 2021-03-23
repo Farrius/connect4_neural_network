@@ -46,7 +46,7 @@ def rival(obs, config):
         num_twos = count_windows(grid, 2, mark, config)
         num_twos_opp = count_windows(grid, 2, mark%2+1, config)
         num_threes_opp = count_windows(grid, 3, mark%2+1, config)
-        A = 10000
+        A = 100000
         B = 100
         C = 10
         D = -10
